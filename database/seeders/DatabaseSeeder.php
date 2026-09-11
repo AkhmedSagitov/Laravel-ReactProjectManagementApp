@@ -6,7 +6,6 @@ use App\Models\Project;
 use App\Models\User;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
-use Symfony\Component\HttpKernel\Profiler\Profile;
 
 class DatabaseSeeder extends Seeder
 {
